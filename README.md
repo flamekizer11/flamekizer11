@@ -35,8 +35,8 @@ My strength lies in combining statistical thinking with production-ready enginee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" title="AWS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/databricks.svg" width="60" title="Databricks"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40" title="Databricks"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
 </p>
 
